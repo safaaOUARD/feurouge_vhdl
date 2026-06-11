@@ -1,0 +1,1 @@
+xst -ise "C:/Xilinx92i/D/exercice1/feurouge/feurouge.ise" -intstyle ise -ifn feu_tricolore.xst -ofn feu_tricolore.syr

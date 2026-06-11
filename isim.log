@@ -1,0 +1,34 @@
+ command line:
+   ./feurouge_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  1051
+
+Thu Jun 11 06:45:35 2026
+
+Total Line Count : 93
+
+ Elaboration time : 0 sec.
+
+ Estimate current memory usage : 116.634 Meg. 
+
+ Total Signals          : 18
+ Total Nets             : 10
+ Total Signal Drivers   : 10
+ Total Blocks           : 8
+ Total Primitive Blocks : 1
+ Total Processes        : 4
+ Total Traceable Variables  : 0
+ Total Scalar Nets and Variables : 10
+ntrace select -o on -n /feurouge/clk 
+ntrace select -o on -n /feurouge/rst 
+ntrace select -o on -n /feurouge/r_a 
+ntrace select -o on -n /feurouge/o_a 
+ntrace select -o on -n /feurouge/v_a 
+ntrace select -o on -n /feurouge/r_b 
+ntrace select -o on -n /feurouge/o_b 
+ntrace select -o on -n /feurouge/v_b 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

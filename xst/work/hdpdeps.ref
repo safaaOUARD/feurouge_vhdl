@@ -1,0 +1,6 @@
+V3 3
+FL $XILINX/D/exercice1/feurouge/feurouge.vhd 2026/04/23.10:34:45 J.36
+EN work/feu_tricolore 1781185496 FL $XILINX/D/exercice1/feurouge/feurouge.vhd \
+      PB ieee/std_logic_1164 1177545575 PH ieee/NUMERIC_STD 1177545583
+AR work/feu_tricolore/Behavioral 1781185497 \
+      FL $XILINX/D/exercice1/feurouge/feurouge.vhd EN work/feu_tricolore 1781185496

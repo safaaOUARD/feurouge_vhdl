@@ -1,0 +1,3 @@
+MODULE feurouge
+SUBMODULE feu_tricolore
+INSTANCE UUT
